@@ -1,0 +1,23 @@
+
+Employee ID Number: 1
+Name: Turner, Timmy NMI.
+Dept Code: 15
+Monthly Salary: 1666
+
+Employee ID Number: 2
+Name: Bob, Billy J.
+Dept Code: 31
+Monthly Salary: 3333
+
+Employee ID Number: 3
+Name: Me, Mini M.
+Dept Code: 93
+Monthly Earnings: 2607
+
+Employee ID Number: 4
+Name: Powers, Austin NMI.
+Dept Code: 12
+Monthly Earnings: 5648
+
+C:\Users\MattD\source\repos\HW04\Debug\HW04.exe (process 16076) exited with code 0.
+Press any key to close this window . . .
